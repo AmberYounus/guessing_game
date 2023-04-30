@@ -1,0 +1,12 @@
+c:\users\gotti\documents\visual studio 2015\Projects\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe.config
+C:\Users\Gotti\documents\visual studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Form1.resources
+C:\Users\Gotti\documents\visual studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Form2.resources
+C:\Users\Gotti\documents\visual studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Form3.resources
+C:\Users\Gotti\documents\visual studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Properties.Resources.resources
+C:\Users\Gotti\documents\visual studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csproj.GenerateResource.Cache
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\bin\Debug\Guessing Game.pdb
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.pdb
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csprojAssemblyReference.cache
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csproj.CoreCompileInputs.cache
